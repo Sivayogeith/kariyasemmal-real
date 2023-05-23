@@ -1,3 +1,7 @@
+# ⚠️
+**This repo is archived and the latest code is not here. Please go to: https://github.com/Sivayogeith/kariyasemmal**
+# ⚠️
+
 # Contributions
 
 After pulling the repo from GitHub, follow these steps:
